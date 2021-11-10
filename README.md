@@ -5,6 +5,7 @@
 #### Algoritma menentukan nilai terbesar dari 3 buah bilangan
 <li> Diketahui 3 buah bilangan Bil1,Bil2,Bil3 akan dicari nilai terbesar </li>
 
+
 1. Mulai <p>
 2. Baca nilai a <p>
 3. Baca nilai b <p>
@@ -18,7 +19,7 @@
 
 #### Flowchart
 
-![gambar 1](screenshot/f.png
+![gambar 1](screenshot/flowchart.png)
 
 #### Program
 <li> Gunakan statement if untuk inisiasi Bilangan Pertama </li>
@@ -26,38 +27,38 @@
 <li> Gunakan statement else untuk inisiasi Bilangan Ketiga </li>
 <li> Kemudian Run Bilangan Ketiga </li>
 
-![gambar 2](screenshot/f.png
+![gambar 2](screenshot/tugasp2_1.png)
 
 #### Output
 
-![gambar 3](screenshot/f.png
+![gambar 3](screenshot/tugasp2_2.png)
 
 ## Latihan 1: Membuat program menentukan nilai akhir
 #### Program
 
-![gambar 4](screenshot/f.png
+![gambar 4](screenshot/modul2lat1_1.png)
 
 #### Output
 
-![gambar 5](screenshot/f.png
+![gambar 5](screenshot/modul2lat1_2.png)
 
 ## Latihan 2: Membuat program menampilkan status gaji karyawan
 #### Program
 
-![gambar 6](screenshot/f.png
+![gambar 6](screenshot/modul2lat2_1.png)
 
 #### Output
 
-![gambar 7](screenshot/f.png
+![gambar 7](screenshot/modul2lat2_2.png)
 
 ## Latihan 3: Penggunaan kondisi OR
 ### Program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan “Benar”
 #### Program
 
-![gambar 8](screenshot/f.png
+![gambar 8](screenshot/modul2lat3_1.png)
 
 #### Output
 
-![gambar 9](screenshot/f.png
+![gambar 9](screenshot/modul2lat3_2.png)
 
 ### Sekian Terima Kasih
