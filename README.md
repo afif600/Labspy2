@@ -4,8 +4,7 @@
 ### Program input tiga buah bilangan dan menentukan nilai terbesarnya
 #### Algoritma menentukan nilai terbesar dari 3 buah bilangan
 <li> Diketahui 3 buah bilangan Bil1,Bil2,Bil3 akan dicari nilai terbesar </li>
-
-
+ <p>
 1. Mulai <p>
 2. Baca nilai a <p>
 3. Baca nilai b <p>
